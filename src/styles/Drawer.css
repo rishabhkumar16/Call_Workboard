@@ -1,0 +1,93 @@
+.drawer-action {
+    left: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: "#5DAAE0";
+  }
+  .custom-drawer {
+    /* background: transparent
+      radial-gradient(closest-side at 50% 50%, #000000D9 0%, #39495e 100%) 0% 0%
+      no-repeat padding-box; */
+  }
+  .inner-drawer {
+    border-bottom: white 1px solid;
+    padding-bottom: 1%;
+  }
+  .menu-drawer {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    /* padding-left: 5%; */
+    font-size: 25px;
+    display: inline-flex;
+    padding-left: 4%;
+    /* margin-left: 2%; */
+  }
+  .menu-icon {
+    color: white;
+    padding: 2%;
+  }
+  .main-menu-icon {
+    color: white;
+    padding: 17%;
+    top: 0;
+    /* border-bottom: 1px white solid; */
+  }
+  .arrow-left {
+    color: white;
+    padding: 4%;
+  }
+  .avatar {
+    position: absolute;
+    bottom: 0;
+  }
+  .arrow-btn {
+    width: "100%";
+  }
+  .arrow-text {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 15px;
+  }
+  .drawer-footer {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    padding: 0% 0% 4% 5%;
+  }
+  .avatar-name {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: 4px;
+  }
+  .freeda-logo {
+  }
+  
+  .freeda-btn {
+    display: flex;
+  }
+  .app-utils {
+  }
+  .search-bar {
+    display: flex;
+    border: 1px solid #5daae0;
+    border-radius: 25px;
+    width: 15vw;
+  }
+  .search-input {
+    border: none;
+    outline: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 17px;
+    background-color: transparent;
+    outline: none;
+    color: #ffffff80;
+  }
+  
